@@ -11,6 +11,10 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/mirage-kamran/" target="blank"><img src="https://img.shields.io/linkedin/follow/mirage-kamran?logo=linkedin&style=for-the-badge" alt="mirage-kamran" /></a> </p>
 
+ <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 <!--
 **miragekamran/miragekamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
