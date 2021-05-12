@@ -30,8 +30,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/miragekamran](https://github.com/miragekamran)
 
-- 💬 Ask me about **React, Redux, NextJS, JS, Python**
+- 💬 Ask me about **React, Redux, JS, Python, Java**
 
-- 📫 How to reach me **bobbidigi34@gmail.com**
+- 📫 How to reach me **mirage.kamran@outlook.com**
 
 - ⚡ Fun fact **I believe we can change the world for the better.**
