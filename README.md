@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirage</h1>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miragekamran&layout=compact" alt="miragekamran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>
+
 [![Mirage's github stats](https://github-readme-stats.vercel.app/api?username=miragekamran)](https://github.com/miragekamran/github-readme-stats)
 
 <!--
