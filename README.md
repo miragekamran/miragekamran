@@ -18,10 +18,6 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:mirage.kamran@outlook.com'>mirage.kamran@outlook.com</a>
-</p>&nbsp;&nbsp;
-
-<p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/miragekamran/miragekamran"></a> hipsters and nerds have come here o/
 </p>
 
