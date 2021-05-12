@@ -32,6 +32,6 @@
 
 - 💬 Ask me about **React, Redux, JS, Python, Java**
 
-- 📫 How to reach me **mirage.kamran@outlook.com**
+- 📫 I can be reachable at **mirage.kamran@outlook.com**
 
 - ⚡ Fun fact **I believe we can change the world for the better.**
