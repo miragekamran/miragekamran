@@ -28,7 +28,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/miragekamran?tab=repositories](https://github.com/miragekamran?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/miragekamran](https://github.com/miragekamran?tab=repositories)
 
 - 💬 Ask me about **React, Redux, JS, Python, Java**
 
