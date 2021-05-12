@@ -14,9 +14,7 @@
 </p>&nbsp;&nbsp;
 
 
-<p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+
 
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>
 
