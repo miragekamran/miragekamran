@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirage</h1>
-<h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from Michigan.</h3>
+<h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from California.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miragekamran&layout=compact" alt="miragekamran" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>
@@ -9,11 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miragekamran" alt="miragekamran" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mirage-kamran/" target="blank"><img src="https://img.shields.io/linkedin/follow/mirage-kamran?logo=linkedin&style=for-the-badge" alt="mirage-kamran" /></a> </p>
-
- <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left"> <a href="https://www.linkedin.com/in/alexandresanlim/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 <!--
 **miragekamran/miragekamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
