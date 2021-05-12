@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirage</h1>
 
+[![Mirage's github stats](https://github-readme-stats.vercel.app/api?username=miragekamran)](https://github.com/miragekamran/github-readme-stats)
+
 <!--
 **miragekamran/miragekamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
