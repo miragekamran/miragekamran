@@ -15,10 +15,10 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>
 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=miragekamran&label=Profile%20views&color=0e75b6&style=flat" alt="miragekamran" /> </p> -->
