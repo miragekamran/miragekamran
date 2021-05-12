@@ -18,7 +18,7 @@
 
 
 <p align='center'>
-  📫   How to reach me: <a href='mailto:mirage.kamran@outlook.com'>mirage.kamran@outlook.com</a>
+  📫 How to reach me: <a href='mailto:mirage.kamran@outlook.com'>mirage.kamran@outlook.com</a>
 </p>&nbsp;&nbsp;
 
 <p align='center'>
