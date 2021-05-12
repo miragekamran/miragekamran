@@ -10,7 +10,7 @@
 </p>&nbsp;&nbsp;
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/miragekamran/miragekamran"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/miragekamran/miragekamran"></a>
 </p>&nbsp;&nbsp;
 
 <p align='center'>
