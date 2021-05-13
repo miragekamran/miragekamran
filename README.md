@@ -18,7 +18,8 @@
 </p>&nbsp;&nbsp;
 
 
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>&nbsp;&nbsp;
+<p align='center'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=miragekamran&show_icons=true&theme=radical" alt="miragekamran" /></p>&nbsp;&nbsp;
 
 
 
