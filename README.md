@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirage</h1>
-<h3 align="center">I'm a frontend engineer, junior software developer, and life long learner from California.</h3>&nbsp;&nbsp;
+<h3 align="center">I'm a frontend engineer, junior software developer, and life long learner.</h3>&nbsp;&nbsp;
 
 
 
